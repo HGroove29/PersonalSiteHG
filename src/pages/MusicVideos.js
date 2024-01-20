@@ -54,7 +54,7 @@ const MusicVideos = () => {
         },
     };
 
-    const captions = ["Ecuador meets California in one mesmerizing video.", "Recorded at a packed gig, the energy was on fire—a freestyle fiesta!", "¿Qué pasa? Seriously, what's happening in the world today? ", "Going insane during the show as the mesmerizer becomes the mesmerized in an unexpected twist!", "Experience a burst of color, creativity, harmony, and lyrics in this lively video!"];
+    const captions = ["Ecuador meets California in one captivating video.", "Recorded at a packed gig, the energy was on fire—a freestyle fiesta!", "¿Qué pasa? Seriously, what's happening in the world today? ", "Going insane during the show as the mesmerizer becomes the mesmerized in an unexpected twist!", "Experience a burst of color, creativity, harmony, and lyrics in this lively video!"];
 
     return (
         <Container>
