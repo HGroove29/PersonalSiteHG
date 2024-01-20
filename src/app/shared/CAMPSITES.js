@@ -20,6 +20,15 @@ export const CAMPSITES = [
     //         'Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers.'
     // },
     {
+        id: 4,
+        name: 'Funk, Groove and NFTS',
+        image: hgrooveartsy,
+        elevation: 2901,
+        featured: false,
+        description:
+            'take the lead in this creative renaissance '
+    },
+    {
         id: 0,
         name: 'High energy vibe',
         image: bassface,
@@ -37,15 +46,15 @@ export const CAMPSITES = [
     //     description:
     //         'Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River.'
     // },
-    {
-        id: 1,
-        name: 'Explore your World',
-        image: modelingHgroove,
-        elevation: 877,
-        featured: false,
-        description:
-            'Unleash yourself in a world where music and coding collide.'
-    },
+    // {
+    //     id: 1,
+    //     name: 'Explore your World',
+    //     image: modelingHgroove,
+    //     elevation: 877,
+    //     featured: false,
+    //     description:
+    //         'Unleash yourself in a world where music and coding collide.'
+    // },
     // {
     //     id: 2,
     //     name: 'Breadcrumb Trail Campground',
@@ -71,7 +80,7 @@ export const CAMPSITES = [
         elevation: 42,
         featured: true,
         description:
-            "Passion is what sets you apart from the rest, and it is a fire that burns within me."
+            'Unleash yourself in a world where music and coding collide.'
     },
     {
         id: 3,
@@ -82,13 +91,5 @@ export const CAMPSITES = [
         description:
             'Be part of HGroove colorful world'
     },
-    {
-        id: 4,
-        name: 'HGroove Style',
-        image: hgrooveartsy,
-        elevation: 2901,
-        featured: false,
-        description:
-            'Be part of HGroove colorful world'
-    },
+
 ];

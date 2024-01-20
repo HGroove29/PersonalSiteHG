@@ -27,25 +27,25 @@ const Footer = () => {
                         <h5>Social</h5>
                         <a
                             className='btn btn-social-icon btn-instagram'
-                            href='http://instagram.com/'
+                            href='http://instagram.com/hgrooveofficial'
                         >
                             <i className='fa fa-instagram' />
                         </a>{' '}
                         <a
                             className='btn btn-social-icon btn-facebook'
-                            href='http://www.facebook.com/'
+                            href='http://www.facebook.com/hgrooveofficial'
                         >
                             <i className='fa fa-facebook' />
                         </a>{' '}
                         <a
                             className='btn btn-social-icon btn-twitter'
-                            href='http://twitter.com/'
+                            href='http://twitter.com/hgrooveofficial'
                         >
                             <i className='fa fa-twitter' />
                         </a>{' '}
                         <a
                             className='btn btn-social-icon btn-google'
-                            href='http://youtube.com/'
+                            href='http://youtube.com/hgrooveofficial'
                         >
                             <i className='fa fa-youtube' />
                         </a>
@@ -56,7 +56,7 @@ const Footer = () => {
                             className='btn btn-link'
                             href='tel:+12065551234'
                         >
-                            <i className='fa fa-phone' /> 1-206-555-1234
+                            <i className='fa fa-phone' /> 1-777-777-7777
                         </a>
                         <br />
                         <a
@@ -64,7 +64,7 @@ const Footer = () => {
                             className='btn btn-link'
                             href='mailto:notreal@notreal.co'
                         >
-                            <i className='fa fa-envelope-o' /> campsites@nucamp.co
+                            <i className='fa fa-envelope-o' /> hgroove15@gmail.com
                         </a>
                     </Col>
                 </Row>

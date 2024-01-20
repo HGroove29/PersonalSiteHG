@@ -17,7 +17,7 @@ const CommentsList = ({ campsiteId }) => {
     }
     return (
         <Col md='5' className='m-1'>
-            There are no comments for this campsite yet.
+            There are no comments yet.
         </Col>
     );
 };

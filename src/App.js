@@ -5,6 +5,7 @@ import { Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import ContactPage from './pages/ContactPage';
 import CampsiteDetailPage from './pages/CampsiteDetailPage';
+import MusicVideos from './pages/MusicVideos';
 import './App.css';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <Routes>
         <Route path='/' element={<HomePage />} />
+        <Route path='musicvideos' element={<MusicVideos />} />
         <Route path='contact' element={<ContactPage />} />
         <Route path='directory' element={<CampsitesDirectoryPage />} />
         <Route

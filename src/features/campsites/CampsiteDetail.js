@@ -1,4 +1,5 @@
 import { Card, CardImg, CardText, CardBody, Col } from "reactstrap";
+import FooChild from "../display/FooChild";
 
 const CampsiteDetail = ({ campsite }) => {
     const { image, name, description } = campsite;

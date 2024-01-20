@@ -125,8 +125,8 @@ export const COMMENTS = [
     {
         id: 15,
         campsiteId: 3,
-        rating: 4,
-        text: 'Just remember a bear can run and climb faster than you...',
+        rating: 5,
+        text: 'James Brown, Megadeth, John Mayer into one',
         author: 'Markell Richards',
         date: '2017-06-17T03:33Z'
     },
@@ -134,7 +134,7 @@ export const COMMENTS = [
         id: 16,
         campsiteId: 3,
         rating: 5,
-        text: 'Excellent site to recharge from the city.',
+        text: 'Excellent music to recharge from the craziness of daily life.',
         author: 'Amy Keophilavong',
         date: '2018-07-23T19:44Z'
     },
@@ -142,15 +142,15 @@ export const COMMENTS = [
         id: 17,
         campsiteId: 3,
         rating: 5,
-        text: 'What a magnificent view!',
+        text: 'What an interesting style!',
         author: 'Tinus Lorvaldes',
         date: '2018-10-25T16:30Z'
     },
     {
         id: 18,
         campsiteId: 3,
-        rating: 4,
-        text: 'The sites are huge! We felt like we were in the middle of nowhere, in a good way.',
+        rating: 5,
+        text: 'Music is great and the energy feels just right ',
         author: 'Chloe Haskins',
         date: '2017-06-17T03:33Z'
     },
@@ -158,7 +158,7 @@ export const COMMENTS = [
         id: 19,
         campsiteId: 3,
         rating: 5,
-        text: "The photos don't do justice to the beauty of this place.",
+        text: "HGroove will take you into a different planet",
         author: 'Minae Lee',
         date: '2019-02-18T18:12Z'
     }
